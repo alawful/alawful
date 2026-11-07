@@ -1,33 +1,81 @@
-# Hi, I'm Ali
+<div align="center">
 
-I'm an Engineering Science undergraduate at the University of Tehran. I like projects where software meets a physical or operational system: machine learning, numerical modeling, simulation, and optimization.
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=27&duration=2600&pause=900&color=35C2FF&center=true&vCenter=true&width=820&lines=Ali+Owlia+%7C+Engineering+Science;Modeling+physical+and+operational+systems;Simulation+%E2%80%A2+Optimization+%E2%80%A2+Machine+Learning" alt="Ali Owlia — Engineering Science" />
 
-## A few things I've worked on
+### I turn system questions into models, experiments, and working code.
 
-- [Arena simulation studies](https://github.com/alawful/arena-simulation-studies) — small models of an emergency department, an operating room, a flow shop, and an inventory-production system.
-- [GAMS optimization exercises](https://github.com/alawful/gams-optimization-exercises) — transportation, workforce scheduling, and production-planning models.
-- [Bicycle frame and material study](https://github.com/alawful/bicycle-frame-material-study) — a frame model, selected analysis outputs, and a Python material-ranking script.
-- [HSPICE circuit studies](https://github.com/alawful/hspice-transient-circuits) — compact netlists for first-order circuits and op-amp transient experiments.
-- [Two-stage rocket model](https://github.com/alawful/two-stage-rocket-model) — a group-course model of vertical flight with changing mass, thrust, gravity, and drag.
-- [Signals and systems labs](https://github.com/alawful/signals-and-systems-labs) — MATLAB and Simulink work on signal coding, synthesis, and system response.
-- [Numerical methods in MATLAB](https://github.com/alawful/numerical-methods-matlab) — iterative solvers, numerical differentiation, and ODE exercises.
-- [Computational statics](https://github.com/alawful/computational-statics) — Python and MATLAB calculations supporting statics assignments.
-- [Production planning models](https://github.com/alawful/production-planning-models) — aggregate, workforce, and transportation models written with PuLP.
-- [Two-echelon transport optimization](https://github.com/alawful/two-echelon-transport-optimization) — the same factory-silo-store integer model implemented in GAMS and PuLP.
-- [Computer vision coursework](https://github.com/alawful/computer-vision-coursework) — image processing, filtering, validation, and video-frame experiments.
-- [Handwritten digits with PCA](https://github.com/alawful/handwritten-digits-pca) — dimensionality reduction and visualization for digit data.
-- [Breast cancer model comparison](https://github.com/alawful/breast-cancer-model-comparison) — an educational comparison of six scikit-learn classifiers.
-- [Bike-sharing demand forecasting](https://github.com/alawful/bike-sharing-demand-forecasting) — chronological forecasting experiments and seasonal baselines.
-- [Perovskite device modeling](https://github.com/alawful/perovskite-device-modeling) — a collaborative DEVSIM drift-diffusion research archive.
+[![University of Tehran](https://img.shields.io/badge/University%20of%20Tehran-Engineering%20Science-113A5C?style=for-the-badge)](https://ut.ac.ir/en)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Owlia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-owlia-213b36247/)
+[![Email](https://img.shields.io/badge/Email-ali.owlia%40ut.ac.ir-1D9BF0?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ali.owlia@ut.ac.ir)
 
-These include individual and collaborative learning projects. Each README describes the scope and limitations, and reference files or generated software output are intentionally left out.
+</div>
 
-## Tools I use
+---
 
-Python, C++, MATLAB, TensorFlow, TensorFlow Lite, OpenCV, GAMS, Arena, HSPICE, SolidWorks, and ANSYS Workbench.
+## What I work on
 
-## Contact
+My projects sit where software meets a physical or operational system. I enjoy defining the assumptions, building the model, checking the result, and explaining what the result does—and does not—show.
 
-[ali.owlia@ut.ac.ir](mailto:ali.owlia@ut.ac.ir)
+`numerical modeling` · `discrete-event simulation` · `optimization` · `machine learning` · `computer vision` · `embedded AI`
+
+## Selected work
+
+| Project | What it explores |
+|---|---|
+| [Bike-sharing demand forecasting](https://github.com/alawful/bike-sharing-demand-forecasting) | Chronological forecasting experiments, seasonal baselines, and demand patterns. |
+| [Perovskite device modeling](https://github.com/alawful/perovskite-device-modeling) | Collaborative DEVSIM drift-diffusion experiments with explicit modeling limits. |
+| [Computer vision coursework](https://github.com/alawful/computer-vision-coursework) | Image filtering, validation, segmentation, and frame-by-frame processing. |
+| [Production planning models](https://github.com/alawful/production-planning-models) | Aggregate planning, workforce decisions, and transportation models in PuLP. |
+| [Arena simulation studies](https://github.com/alawful/arena-simulation-studies) | Emergency-department, operating-room, flow-shop, and inventory-production models. |
+| [Signals and systems labs](https://github.com/alawful/signals-and-systems-labs) | Seven MATLAB and Simulink assignments spanning correlation, coding, ODEs, and system response. |
+| [Bicycle frame and material study](https://github.com/alawful/bicycle-frame-material-study) | Frame geometry, selected structural outputs, and a Python material-ranking exercise. |
+| [HSPICE circuit studies](https://github.com/alawful/hspice-transient-circuits) | Compact circuit netlists covering first-order and op-amp transient behavior. |
+
+<div align="center">
+
+[![Browse all repositories](https://img.shields.io/badge/Browse%20all%20repositories-0D1117?style=for-the-badge&logo=github&logoColor=35C2FF)](https://github.com/alawful?tab=repositories)
+
+</div>
+
+## Technical toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,matlab,tensorflow,opencv,git,github,vscode&theme=dark" alt="Python, C++, MATLAB, TensorFlow, OpenCV, Git, GitHub, and VS Code" />
+
+<br/><br/>
+
+![Arena](https://img.shields.io/badge/Arena-Discrete--Event%20Simulation-16324F?style=flat-square)
+![GAMS](https://img.shields.io/badge/GAMS-Mathematical%20Optimization-1F6E8C?style=flat-square)
+![HSPICE](https://img.shields.io/badge/HSPICE-Circuit%20Simulation-2E8A99?style=flat-square)
+![SolidWorks](https://img.shields.io/badge/SolidWorks-CAD-E2231A?style=flat-square)
+![ANSYS](https://img.shields.io/badge/ANSYS-Engineering%20Analysis-FFB71B?style=flat-square&labelColor=111111)
+
+</div>
+
+## How I document projects
+
+- State the question and my contribution.
+- Keep runnable code or original model files when they can be shared.
+- Separate measured results from numerical experiments.
+- Note missing data, assumptions, dependencies, and limitations.
+- Credit collaborative work without publishing teammates' personal information.
+
+## GitHub snapshot
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=alawful&show_icons=true&hide_border=true&bg_color=0D1117&title_color=35C2FF&text_color=C9D1D9&icon_color=2E8A99" alt="Ali Owlia's GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alawful&layout=compact&hide_border=true&bg_color=0D1117&title_color=35C2FF&text_color=C9D1D9" alt="Most-used languages across public repositories" />
+
+</div>
+
+---
+
+<div align="center">
+
+### Open to conversations about simulation, optimization, and research-oriented engineering projects.
+
+</div>
 
 
