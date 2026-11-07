@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="300" viewBox="0 0 920 300" role="img" aria-labelledby="title description">
+  <title id="title">Ali Owlia public portfolio mix</title>
+  <desc id="description">Donut chart showing the primary format of fifteen public project repositories.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#070b1a"/>
+      <stop offset="1" stop-color="#140b22"/>
+    </linearGradient>
+    <filter id="softGlow" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <rect width="920" height="300" rx="18" fill="url(#background)" stroke="#263251"/>
+  <text x="36" y="42" fill="#f2fbff" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="700">PUBLIC PORTFOLIO MIX</text>
+  <text x="36" y="65" fill="#7f8eb4" font-family="Consolas, Monaco, monospace" font-size="11" letter-spacing="1.2">PRIMARY REPOSITORY FORMAT // PROFILE REPO EXCLUDED</text>
+
+  <g transform="translate(180 175) rotate(-90)" fill="none" stroke-width="28" filter="url(#softGlow)">
+    <circle r="82" stroke="#1b2540"/>
+    <circle r="82" stroke="#00eaff" stroke-dasharray="171.72 343.50" stroke-dashoffset="0"/>
+    <circle r="82" stroke="#ff3bd4" stroke-dasharray="137.40 377.82" stroke-dashoffset="-171.72"/>
+    <circle r="82" stroke="#8bffb0" stroke-dasharray="68.68 446.54" stroke-dashoffset="-309.12"/>
+    <circle r="82" stroke="#ffd166" stroke-dasharray="34.36 480.86" stroke-dashoffset="-377.80"/>
+    <circle r="82" stroke="#9b6cff" stroke-dasharray="103.04 412.18" stroke-dashoffset="-412.16"/>
+  </g>
+
+  <text x="180" y="166" text-anchor="middle" fill="#f2fbff" font-family="Arial, Helvetica, sans-serif" font-size="30" font-weight="800">15</text>
+  <text x="180" y="188" text-anchor="middle" fill="#9cadd2" font-family="Consolas, Monaco, monospace" font-size="10" letter-spacing="1.4">PROJECT REPOS</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <rect x="330" y="91" width="14" height="14" rx="3" fill="#00eaff"/>
+    <text x="358" y="103" fill="#eaf7ff" font-size="16" font-weight="700">Python</text>
+    <text x="590" y="103" fill="#00eaff" font-size="15" font-weight="700">5 repositories</text>
+
+    <rect x="330" y="129" width="14" height="14" rx="3" fill="#ff3bd4"/>
+    <text x="358" y="141" fill="#eaf7ff" font-size="16" font-weight="700">Notebook-based Python</text>
+    <text x="590" y="141" fill="#ff74df" font-size="15" font-weight="700">4 repositories</text>
+
+    <rect x="330" y="167" width="14" height="14" rx="3" fill="#8bffb0"/>
+    <text x="358" y="179" fill="#eaf7ff" font-size="16" font-weight="700">MATLAB / Simulink</text>
+    <text x="590" y="179" fill="#8bffb0" font-size="15" font-weight="700">2 repositories</text>
+
+    <rect x="330" y="205" width="14" height="14" rx="3" fill="#ffd166"/>
+    <text x="358" y="217" fill="#eaf7ff" font-size="16" font-weight="700">GAMS</text>
+    <text x="590" y="217" fill="#ffd166" font-size="15" font-weight="700">1 repository</text>
+
+    <rect x="330" y="243" width="14" height="14" rx="3" fill="#9b6cff"/>
+    <text x="358" y="255" fill="#eaf7ff" font-size="16" font-weight="700">Arena / HSPICE / Live Script</text>
+    <text x="590" y="255" fill="#b798ff" font-size="15" font-weight="700">3 repositories</text>
+  </g>
+</svg>

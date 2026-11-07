@@ -20,10 +20,11 @@
 <br/>
 
 [![Now](https://img.shields.io/badge/01-NOW-00F5FF?style=for-the-badge&labelColor=070B1A)](#now)
-[![Projects](https://img.shields.io/badge/02-PROJECTS-7B61FF?style=for-the-badge&labelColor=070B1A)](#projects)
-[![Research](https://img.shields.io/badge/03-RESEARCH-FF2BD6?style=for-the-badge&labelColor=070B1A)](#research)
-[![Tools](https://img.shields.io/badge/04-TOOLS-00F5A0?style=for-the-badge&labelColor=070B1A)](#tools)
-[![Stats](https://img.shields.io/badge/05-STATS-FFD166?style=for-the-badge&labelColor=070B1A)](#stats)
+[![UT Car](https://img.shields.io/badge/02-UT%20CAR-FF2BD6?style=for-the-badge&labelColor=070B1A)](#utcar)
+[![Projects](https://img.shields.io/badge/03-PROJECTS-7B61FF?style=for-the-badge&labelColor=070B1A)](#projects)
+[![Research](https://img.shields.io/badge/04-RESEARCH-00F5A0?style=for-the-badge&labelColor=070B1A)](#research)
+[![Tools](https://img.shields.io/badge/05-TOOLS-FFD166?style=for-the-badge&labelColor=070B1A)](#tools)
+[![Portfolio](https://img.shields.io/badge/06-PORTFOLIO-00E5FF?style=for-the-badge&labelColor=070B1A)](#portfolio)
 
 </div>
 
@@ -37,9 +38,25 @@
 | | |
 |---|---|
 | **Studying** | BSc in Engineering Science, University of Tehran — expected July 2027 |
-| **Researching** | Resource-aware edge perception, model conversion, profiling, and hardware/software constraints |
+| **Researching** | Edge perception and embedded-intelligence constraints with the UT Car research team |
 | **Teaching** | Signals and Systems, Advanced Programming, Engineering Economy, and PEL for Engineering |
 | **Exploring** | Numerical modeling, discrete-event simulation, optimization, machine learning, and computer vision |
+
+<a id="utcar"></a>
+## 🏎️ UT Car — embedded perception under real constraints
+
+**Research Assistant · [UT Car](https://github.com/UT-Car), University of Tehran · 2025–present**
+
+UT Car has been a central part of my engineering education: it is where machine-learning models meet hardware limits, aging software stacks, sensors, motors, and the need to debug the whole system rather than one isolated component.
+
+- Adapted **MobileNetV2/U-Net lane-segmentation models** for INT8 TensorFlow Lite deployment and profiled latency and TPU/CPU operator placement.
+- Investigated operator and runtime incompatibilities in the legacy **Coral Edge TPU** stack and reduced unnecessary Raspberry Pi-to-accelerator transfers.
+- Worked on an **SSD MobileNetV2 detection pipeline** for vehicles, pedestrians, and traffic lights while accounting for edge memory and compute limits.
+- Diagnosed motor underperformance under load by tracing the voltage loss to the **RC motor driver**, not the motor itself.
+
+<sub><code>RASPBERRY PI // CORAL DEV BOARD // FISHEYE CAMERA // TFLITE INT8 // SYSTEM-LEVEL DEBUGGING</code></sub>
+
+This profile describes my contribution and lessons learned. Team-owned repositories and internal UT Car material remain with the organization rather than being copied into my personal account.
 
 ## 🧭 What I work on
 
@@ -127,25 +144,23 @@ The linked repositories are working-code archives, not copies of the manuscripts
 - Note missing data, assumptions, dependencies, and limitations.
 - Credit collaborative work without publishing teammates' personal information.
 
-<a id="stats"></a>
-## 📡 GitHub snapshot
+<a id="portfolio"></a>
+## 🧬 Portfolio composition
 
-<sub><code>LIVE PUBLIC-REPOSITORY SIGNAL</code></sub>
+<sub><code>WHAT THE PROJECT ARCHIVE CONTAINS // NOT A PROFICIENCY SCORE</code></sub>
 
 <div align="center">
 
 <br/>
 
-<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alawful&theme=2077" alt="Ali Owlia's GitHub contribution summary" />
+<img width="96%" src="./assets/portfolio-mix.svg" alt="Neon chart showing the format mix across fifteen public project repositories" />
 
 <br/>
 
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alawful&theme=2077" alt="Ali Owlia's GitHub statistics" />
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alawful&theme=2077" alt="Most-used languages across Ali's public repositories" />
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=alawful&theme=neon-dark&hide_border=true" alt="Ali Owlia's GitHub contribution streak" />
+[![Project repositories](https://img.shields.io/badge/PROJECT%20REPOSITORIES-15-00E5FF?style=for-the-badge&labelColor=070B1A)](https://github.com/alawful?tab=repositories)
+[![Signals assignments](https://img.shields.io/badge/SIGNALS%20ASSIGNMENTS-7-8BFFB0?style=for-the-badge&labelColor=070B1A)](https://github.com/alawful/signals-and-systems-labs)
+[![Arena studies](https://img.shields.io/badge/ARENA%20STUDIES-4-FF3BD4?style=for-the-badge&labelColor=070B1A)](https://github.com/alawful/arena-simulation-studies)
+[![Manuscripts](https://img.shields.io/badge/MANUSCRIPTS%20UNDER%20REVIEW-2-FFD166?style=for-the-badge&labelColor=070B1A)](#research)
 
 </div>
 
