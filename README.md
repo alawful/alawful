@@ -10,7 +10,7 @@
 
 <br/><br/>
 
-[![University of Tehran](https://img.shields.io/badge/University%20of%20Tehran-Engineering%20Science-113A5C?style=for-the-badge)](https://ut.ac.ir/en)
+[![University of Tehran](https://img.shields.io/badge/University%20of%20Tehran-Engineering%20Science-113A5C?style=for-the-badge)](https://www.linkedin.com/school/university-of-tehran/)
 [![Tehran](https://img.shields.io/badge/Tehran-Iran-16324F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://en.wikipedia.org/wiki/Tehran)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ali%20Owlia-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ali-owlia-213b36247/)
 
@@ -38,25 +38,31 @@
 | | |
 |---|---|
 | **Studying** | BSc in Engineering Science, University of Tehran — expected July 2027 |
-| **Researching** | Edge perception and embedded-intelligence constraints with the UT Car research team |
+| **Researching** | Resource-constrained edge perception with the UTCar autonomous-driving team |
 | **Teaching** | Signals and Systems, Advanced Programming, Engineering Economy, and PEL for Engineering |
 | **Exploring** | Numerical modeling, discrete-event simulation, optimization, machine learning, and computer vision |
 
 <a id="utcar"></a>
-## 🏎️ UT Car — embedded perception under real constraints
+## 🏎️ UTCar — building autonomy under real constraints
 
-**Research Assistant · [UT Car](https://github.com/UT-Car), University of Tehran · 2025–present**
+**Research Assistant · [UTCar on LinkedIn](https://www.linkedin.com/company/utcar/) · [University of Tehran](https://www.linkedin.com/school/university-of-tehran/) · 2025–present**
 
-UT Car has been a central part of my engineering education: it is where machine-learning models meet hardware limits, aging software stacks, sensors, motors, and the need to debug the whole system rather than one isolated component.
+UTCar is the University of Tehran's autonomous-driving lab within the NOC Laboratory at the Faculty of Electrical and Computer Engineering. The team is developing a self-driving research vehicle and working across the autonomy stack: **decision-making, computer vision, sensor integration, simulation, embedded hardware, and vehicle actuation**. This means connecting algorithms to a physical platform and testing how perception, computation, electronics, and motion behave together.
+
+For me, UTCar has been a central part of my engineering education. It is where machine-learning models meet limited computing resources, legacy software, cameras, electronics, and motors—and where a problem in one subsystem can affect the behavior of the entire vehicle.
+
+**My work has focused on embedded perception and hardware–software integration:**
 
 - Adapted **MobileNetV2/U-Net lane-segmentation models** for INT8 TensorFlow Lite deployment and profiled latency and TPU/CPU operator placement.
 - Investigated operator and runtime incompatibilities in the legacy **Coral Edge TPU** stack and reduced unnecessary Raspberry Pi-to-accelerator transfers.
 - Worked on an **SSD MobileNetV2 detection pipeline** for vehicles, pedestrians, and traffic lights while accounting for edge memory and compute limits.
 - Diagnosed motor underperformance under load by tracing the voltage loss to the **RC motor driver**, not the motor itself.
 
-<sub><code>RASPBERRY PI // CORAL DEV BOARD // FISHEYE CAMERA // TFLITE INT8 // SYSTEM-LEVEL DEBUGGING</code></sub>
+<sub><code>AUTONOMOUS DRIVING // COMPUTER VISION // RASPBERRY PI // CORAL DEV BOARD // FISHEYE CAMERA // TFLITE INT8 // SYSTEM-LEVEL DEBUGGING</code></sub>
 
-This profile describes my contribution and lessons learned. Team-owned repositories and internal UT Car material remain with the organization rather than being copied into my personal account.
+This profile describes my own contribution and what I learned from the work. Team-owned repositories and internal UTCar material remain with the organization rather than being copied into my personal account.
+
+<sub>Official links: [UTCar on LinkedIn](https://www.linkedin.com/company/utcar/) · [UTCar on GitHub](https://github.com/UT-Car) · [College of Engineering on LinkedIn](https://www.linkedin.com/company/uteng-university-of-tehran/)</sub>
 
 ## 🧭 What I work on
 
@@ -130,10 +136,10 @@ The linked repositories are working-code archives, not copies of the manuscripts
 
 ## 🎓 Beyond the code
 
-- Research assistant since 2025, working with Raspberry Pi, Coral hardware, INT8 TensorFlow Lite conversion, inference profiling, and edge-perception constraints.
-- Teaching assistant at the University of Tehran across programming, engineering economy, signals and systems, and PEL for Engineering.
-- Full undergraduate scholarship recipient; ranked **908th among more than 400,000 candidates** in Iran's national mathematics and physics university entrance examination.
-- Persian native speaker; English, intermediate Arabic, and beginner French.
+- Research assistant since 2025, working with Raspberry Pi and Coral hardware, INT8 TensorFlow Lite conversion, inference profiling, and resource-constrained edge perception.
+- Teaching assistant at the University of Tehran for Advanced Programming, Engineering Economy, Signals and Systems, and PEL for Engineering.
+- Recipient of a full undergraduate scholarship; ranked **908th among more than 400,000 candidates** in Iran's national mathematics and physics university entrance examination.
+- Languages: Persian (native), English (working proficiency), Arabic (intermediate), and French (beginner).
 
 ## 🧪 Publishing protocol
 
