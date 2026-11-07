@@ -49,6 +49,7 @@ My projects sit where software meets a physical or operational system. I enjoy d
 | Project | What it explores |
 |---|---|
 | [GAMS optimization exercises](https://github.com/alawful/gams-optimization-exercises) | Transportation, workforce scheduling, production planning, and sensitivity experiments. |
+| [Two-echelon transport optimization](https://github.com/alawful/two-echelon-transport-optimization) | The same factory–silo–store integer model implemented in GAMS and Python/PuLP. |
 | [Two-stage rocket model](https://github.com/alawful/two-stage-rocket-model) | Collaborative vertical-flight modeling with changing mass, thrust, gravity, and drag. |
 | [Numerical methods in MATLAB](https://github.com/alawful/numerical-methods-matlab) | Iterative solvers, numerical differentiation, and ODE exercises. |
 | [Computational statics](https://github.com/alawful/computational-statics) | Python and MATLAB calculations supporting equilibrium and mechanics exercises. |
