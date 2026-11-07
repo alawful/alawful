@@ -4,7 +4,7 @@ I'm an Engineering Science undergraduate at the University of Tehran. I like pro
 
 ## A few things I've worked on
 
-- [Arena simulation studies](https://github.com/alawful/arena-simulation-studies) — small models of an emergency department, an operating room, and a flow shop.
+- [Arena simulation studies](https://github.com/alawful/arena-simulation-studies) — small models of an emergency department, an operating room, a flow shop, and an inventory-production system.
 - [GAMS optimization exercises](https://github.com/alawful/gams-optimization-exercises) — transportation, workforce scheduling, and production-planning models.
 - [Bicycle frame and material study](https://github.com/alawful/bicycle-frame-material-study) — a frame model, selected analysis outputs, and a Python material-ranking script.
 - [HSPICE circuit studies](https://github.com/alawful/hspice-transient-circuits) — compact netlists for first-order circuits and op-amp transient experiments.
@@ -13,6 +13,7 @@ I'm an Engineering Science undergraduate at the University of Tehran. I like pro
 - [Numerical methods in MATLAB](https://github.com/alawful/numerical-methods-matlab) — iterative solvers, numerical differentiation, and ODE exercises.
 - [Computational statics](https://github.com/alawful/computational-statics) — Python and MATLAB calculations supporting statics assignments.
 - [Production planning models](https://github.com/alawful/production-planning-models) — aggregate, workforce, and transportation models written with PuLP.
+- [Two-echelon transport optimization](https://github.com/alawful/two-echelon-transport-optimization) — the same factory-silo-store integer model implemented in GAMS and PuLP.
 - [Computer vision coursework](https://github.com/alawful/computer-vision-coursework) — image processing, filtering, validation, and video-frame experiments.
 - [Handwritten digits with PCA](https://github.com/alawful/handwritten-digits-pca) — dimensionality reduction and visualization for digit data.
 - [Breast cancer model comparison](https://github.com/alawful/breast-cancer-model-comparison) — an educational comparison of six scikit-learn classifiers.
