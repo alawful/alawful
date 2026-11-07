@@ -75,8 +75,8 @@ My projects sit where software meets a physical or operational system. I enjoy d
 
 | Project | What it explores |
 |---|---|
-| [Bike-sharing demand forecasting](https://github.com/alawful/bike-sharing-demand-forecasting) | Chronological forecasting experiments, seasonal baselines, and demand patterns. |
-| [Perovskite device modeling](https://github.com/alawful/perovskite-device-modeling) | Collaborative DEVSIM drift-diffusion experiments with explicit modeling limits. |
+| Bike-sharing demand forecasting *(private — manuscript under review)* | Chronological forecasting experiments, seasonal baselines, and demand patterns. Supporting code and materials are available by request. |
+| Perovskite device modeling *(private — manuscript under review)* | Collaborative DEVSIM drift-diffusion experiments with explicit modeling limits. Supporting code and materials are available by request. |
 | [Computer vision coursework](https://github.com/alawful/computer-vision-coursework) | Image filtering, validation, segmentation, and frame-by-frame processing. |
 | [Production planning models](https://github.com/alawful/production-planning-models) | Aggregate planning, workforce decisions, and transportation models in PuLP. |
 | [Arena simulation studies](https://github.com/alawful/arena-simulation-studies) | Emergency-department, operating-room, flow-shop, and inventory-production models. |
@@ -108,12 +108,12 @@ My projects sit where software meets a physical or operational system. I enjoy d
 <a id="research"></a>
 ## 🔬 Research notes
 
-<sub><code>RESEARCH MODE // WORKING REPOSITORIES ≠ FINAL MANUSCRIPTS</code></sub>
+<sub><code>RESEARCH MODE // MANUSCRIPTS UNDER REVIEW // ACCESS BY REQUEST</code></sub>
 
 - **Bike-sharing demand forecasting — manuscript under review.** I compared ridge regression, histogram-based gradient boosting, and seasonal baselines for Washington, D.C. and Seoul across several forecast horizons.
 - **Perovskite solar-cell modeling — collaborative manuscript under review.** My contribution centered on DEVSIM simulations of penetration and passivation patterns, component checks, mesh refinement, and maximum-power comparisons.
 
-The linked repositories are working-code archives, not copies of the manuscripts. They intentionally distinguish numerical experiments from measured evidence and state important limitations.
+The manuscripts, supporting code, and research materials are private while the papers are under review. Access may be requested for legitimate academic or research purposes by emailing [ali.owlia@ut.ac.ir](mailto:ali.owlia@ut.ac.ir).
 
 <a id="tools"></a>
 ## 🛠️ Technical toolbox
@@ -145,6 +145,7 @@ The linked repositories are working-code archives, not copies of the manuscripts
 
 - State the question and my contribution.
 - Keep runnable code or original model files when they can be shared.
+- Keep manuscript code and supporting materials private during peer review; provide access only by request when appropriate.
 - Remove student identifiers, submitted reports, transcripts, and collaborators' personal information.
 - Separate measured results from numerical experiments.
 - Note missing data, assumptions, dependencies, and limitations.
@@ -159,11 +160,11 @@ The linked repositories are working-code archives, not copies of the manuscripts
 
 <br/>
 
-<img width="96%" src="./assets/portfolio-mix.svg" alt="Neon chart showing the format mix across fifteen public project repositories" />
+<img width="96%" src="./assets/portfolio-mix.svg" alt="Neon chart showing the format mix across thirteen public project repositories" />
 
 <br/>
 
-[![Project repositories](https://img.shields.io/badge/PROJECT%20REPOSITORIES-15-00E5FF?style=for-the-badge&labelColor=070B1A)](https://github.com/alawful?tab=repositories)
+[![Project repositories](https://img.shields.io/badge/PROJECT%20REPOSITORIES-13-00E5FF?style=for-the-badge&labelColor=070B1A)](https://github.com/alawful?tab=repositories)
 [![Signals assignments](https://img.shields.io/badge/SIGNALS%20ASSIGNMENTS-7-8BFFB0?style=for-the-badge&labelColor=070B1A)](https://github.com/alawful/signals-and-systems-labs)
 [![Arena studies](https://img.shields.io/badge/ARENA%20STUDIES-4-FF3BD4?style=for-the-badge&labelColor=070B1A)](https://github.com/alawful/arena-simulation-studies)
 [![Manuscripts](https://img.shields.io/badge/MANUSCRIPTS%20UNDER%20REVIEW-2-FFD166?style=for-the-badge&labelColor=070B1A)](#research)
