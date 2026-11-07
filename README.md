@@ -1,8 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=27&duration=2600&pause=900&color=35C2FF&center=true&vCenter=true&width=840&lines=Ali+Owlia+%7C+Engineering+Science;Models+%E2%86%92+Experiments+%E2%86%92+Working+Code;Embedded+AI+%E2%80%A2+Simulation+%E2%80%A2+Optimization" alt="Ali Owlia — Engineering Science" />
+<img width="100%" src="./assets/neon-research-console.svg" alt="Ali Owlia — animated neon research console" />
 
-### I turn questions about systems into models, experiments, and working code.
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=35C2FF&center=true&vCenter=true&width=780&lines=Engineering+questions%2C+translated+into+testable+systems.;Build+the+model.+Check+the+result.+State+the+limits.;Embedded+AI+%E2%80%A2+Simulation+%E2%80%A2+Optimization" alt="Animated summary of Ali's engineering interests" />
+
+<sub><strong>MODELING PHYSICAL + OPERATIONAL SYSTEMS</strong></sub>
+
+<br/><br/>
 
 [![University of Tehran](https://img.shields.io/badge/University%20of%20Tehran-Engineering%20Science-113A5C?style=for-the-badge)](https://ut.ac.ir/en)
 [![Tehran](https://img.shields.io/badge/Tehran-Iran-16324F?style=for-the-badge&logo=googlemaps&logoColor=white)](https://en.wikipedia.org/wiki/Tehran)
@@ -11,11 +17,22 @@
 [![Academic email](https://img.shields.io/badge/Academic%20email-ali.owlia%40ut.ac.ir-1D9BF0?style=flat-square&logo=gmail&logoColor=white)](mailto:ali.owlia@ut.ac.ir)
 [![Personal email](https://img.shields.io/badge/Personal%20email-aliowlia2004%40gmail.com-334155?style=flat-square&logo=gmail&logoColor=white)](mailto:aliowlia2004@gmail.com)
 
+<br/>
+
+[![Now](https://img.shields.io/badge/01-NOW-00F5FF?style=for-the-badge&labelColor=070B1A)](#now)
+[![Projects](https://img.shields.io/badge/02-PROJECTS-7B61FF?style=for-the-badge&labelColor=070B1A)](#projects)
+[![Research](https://img.shields.io/badge/03-RESEARCH-FF2BD6?style=for-the-badge&labelColor=070B1A)](#research)
+[![Tools](https://img.shields.io/badge/04-TOOLS-00F5A0?style=for-the-badge&labelColor=070B1A)](#tools)
+[![Stats](https://img.shields.io/badge/05-STATS-FFD166?style=for-the-badge&labelColor=070B1A)](#stats)
+
 </div>
 
 ---
 
-## Current coordinates
+<a id="now"></a>
+## ⚡ Current coordinates
+
+<sub><code>LIVE STATUS // UNIVERSITY OF TEHRAN // ENGINEERING SCIENCE</code></sub>
 
 | | |
 |---|---|
@@ -24,13 +41,14 @@
 | **Teaching** | Signals and Systems, Advanced Programming, Engineering Economy, and PEL for Engineering |
 | **Exploring** | Numerical modeling, discrete-event simulation, optimization, machine learning, and computer vision |
 
-## What I work on
+## 🧭 What I work on
 
 My projects sit where software meets a physical or operational system. I enjoy defining the assumptions, building the model, checking the result, and explaining what the result does—and does not—show.
 
 `numerical modeling` · `discrete-event simulation` · `optimization` · `machine learning` · `computer vision` · `embedded AI`
 
-## Selected work
+<a id="projects"></a>
+## 🗂️ Selected work
 
 | Project | What it explores |
 |---|---|
@@ -44,7 +62,7 @@ My projects sit where software meets a physical or operational system. I enjoy d
 | [HSPICE circuit studies](https://github.com/alawful/hspice-transient-circuits) | Compact circuit netlists covering first-order and op-amp transient behavior. |
 
 <details>
-<summary><strong>More code archives and engineering foundations</strong></summary>
+<summary><strong>⌁ Open the extended project archive</strong></summary>
 
 | Project | What it explores |
 |---|---|
@@ -64,14 +82,18 @@ My projects sit where software meets a physical or operational system. I enjoy d
 
 </div>
 
-## Research notes
+<a id="research"></a>
+## 🔬 Research notes
+
+<sub><code>RESEARCH MODE // WORKING REPOSITORIES ≠ FINAL MANUSCRIPTS</code></sub>
 
 - **Bike-sharing demand forecasting — manuscript under review.** I compared ridge regression, histogram-based gradient boosting, and seasonal baselines for Washington, D.C. and Seoul across several forecast horizons.
 - **Perovskite solar-cell modeling — collaborative manuscript under review.** My contribution centered on DEVSIM simulations of penetration and passivation patterns, component checks, mesh refinement, and maximum-power comparisons.
 
 The linked repositories are working-code archives, not copies of the manuscripts. They intentionally distinguish numerical experiments from measured evidence and state important limitations.
 
-## Technical toolbox
+<a id="tools"></a>
+## 🛠️ Technical toolbox
 
 <div align="center">
 
@@ -89,14 +111,14 @@ The linked repositories are working-code archives, not copies of the manuscripts
 
 </div>
 
-## A little context beyond the code
+## 🎓 Beyond the code
 
 - Research assistant since 2025, working with Raspberry Pi, Coral hardware, INT8 TensorFlow Lite conversion, inference profiling, and edge-perception constraints.
 - Teaching assistant at the University of Tehran across programming, engineering economy, signals and systems, and PEL for Engineering.
 - Full undergraduate scholarship recipient; ranked **908th among more than 400,000 candidates** in Iran's national mathematics and physics university entrance examination.
 - Persian native speaker; English, intermediate Arabic, and beginner French.
 
-## How I document projects
+## 🧪 Publishing protocol
 
 - State the question and my contribution.
 - Keep runnable code or original model files when they can be shared.
@@ -105,12 +127,25 @@ The linked repositories are working-code archives, not copies of the manuscripts
 - Note missing data, assumptions, dependencies, and limitations.
 - Credit collaborative work without publishing teammates' personal information.
 
-## GitHub snapshot
+<a id="stats"></a>
+## 📡 GitHub snapshot
+
+<sub><code>LIVE PUBLIC-REPOSITORY SIGNAL</code></sub>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=alawful&show_icons=true&hide_border=true&bg_color=0D1117&title_color=35C2FF&text_color=C9D1D9&icon_color=2E8A99" alt="Ali Owlia's GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alawful&layout=compact&hide_border=true&bg_color=0D1117&title_color=35C2FF&text_color=C9D1D9" alt="Most-used languages across public repositories" />
+<br/>
+
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alawful&theme=2077" alt="Ali Owlia's GitHub contribution summary" />
+
+<br/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alawful&theme=2077" alt="Ali Owlia's GitHub statistics" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alawful&theme=2077" alt="Most-used languages across Ali's public repositories" />
+
+<br/>
+
+<img width="70%" src="https://streak-stats.demolab.com?user=alawful&theme=neon-dark&hide_border=true" alt="Ali Owlia's GitHub contribution streak" />
 
 </div>
 
@@ -121,6 +156,8 @@ The linked repositories are working-code archives, not copies of the manuscripts
 ### Open to conversations about intelligent systems, simulation, optimization, and interdisciplinary engineering research.
 
 **Best contact:** [ali.owlia@ut.ac.ir](mailto:ali.owlia@ut.ac.ir)
+
+<sub><code>END OF TRANSMISSION // KEEP BUILDING</code></sub>
 
 </div>
 
